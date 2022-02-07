@@ -1,0 +1,23 @@
+body{
+    background-color:purple;
+    
+} 
+h1{
+    color:white;
+}
+.main_div h1{
+    margin-left: 740px;
+}
+.btn_div{
+    margin-left: 710px;
+}
+
+@media (max-width:768px){
+    .main_div h1{
+        width:55%;
+        margin-left: 250px;
+    }
+    .btn_div{
+        margin-left: 220px;
+    }
+}
