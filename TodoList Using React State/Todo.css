@@ -1,0 +1,19 @@
+body{
+    background-color:aqua;
+   
+    
+}
+.center_div h1{
+    color:orange;
+}
+.main_div{
+    margin-left: 650px;
+}
+
+@media (max-width:768px){
+    .main_div{
+        margin-left: 190px;
+    }
+   
+}    
+  
